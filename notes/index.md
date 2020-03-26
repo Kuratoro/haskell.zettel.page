@@ -17,4 +17,4 @@ See [the current list of zettels](/z-index.html) for uncategorized zettels, whic
 
 ## Contribute a zettel
 
-Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have ideas for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new).
+Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new).
