@@ -9,6 +9,7 @@ This site is a Zettelkasten and is managed by [neuron](https://neuron.srid.ca/).
 ## Overview zettels
 
 * [2012404](z://frontend)
+* [2012406](z://boring-haskell)
 
 ## Uncategorized zettels
 
