@@ -8,12 +8,10 @@ This site is a Zettelkasten and is managed by [neuron](https://neuron.srid.ca/).
 
 ## Overview zettels
 
+**NOTE**: Haskell Zettelkasten was launched in late March, 2020. It probably would **take several months** before it gains an useful proportion of content. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not yet categorized (therefore "dangling"). 
+
 * [2012404](z://frontend)
 * [2012406](z://boring-haskell)
-
-## Uncategorized zettels
-
-See [the current list of zettels](/z-index.html) for uncategorized zettels, which are yet to be linked with an overview zettel. This Zettelkasten is still in its fancy, so we have a lot of writing and organizing to do.
 
 ## Contribute a zettel
 
