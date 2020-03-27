@@ -15,4 +15,4 @@ This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is manage
 
 ## Contribute a zettel
 
-Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new).
+Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new); but the goal is to eventually facilitate a [collaborative editing model](https://old.reddit.com/r/haskell/comments/fpdsit/on_haskell_and_onboarding/flms0j1/).
