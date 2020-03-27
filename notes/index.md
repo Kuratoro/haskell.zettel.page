@@ -11,7 +11,7 @@ This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is manage
 **NOTE**: Haskell Zettelkasten was launched in late March, 2020. It probably would **take several months** before it gains an useful proportion of content. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not yet categorized (therefore "dangling"). 
 
 * [2012404](z://frontend)
-* [2012406](z://boring-haskell)
+* [2012407](z://learning-challenges)
 
 ## Contribute a zettel
 
