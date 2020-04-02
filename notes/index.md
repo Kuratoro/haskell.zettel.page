@@ -10,14 +10,14 @@ This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is manage
 
 **NOTE**: Haskell Zettelkasten was launched in late March, 2020. It probably would **take several months** before it gains an useful proportion of content. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not in the primary cluster. 
 
-* [2012503](zcf://learning)
-* [2012602](zcf://package-management)
-* [2013402](zcf://libraries)
-* [2012404](zcf://frontend)
+* [2012503](z://learning)
+* [2012602](z://package-management)
+* [2013402](z://libraries)
+* [2012404](z://frontend)
 
 Non-technical:
 
-* [2013403](zcf://social)
+* [2013403](z://social)
 
 ## Contribute a zettel
 
