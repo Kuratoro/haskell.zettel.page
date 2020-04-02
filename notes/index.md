@@ -12,7 +12,12 @@ This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is manage
 
 * [2012503](zcf://learning)
 * [2012602](zcf://package-management)
+* [2013402](zcf://libraries)
 * [2012404](zcf://frontend)
+
+Non-technical:
+
+* [2013403](zcf://social)
 
 ## Contribute a zettel
 
