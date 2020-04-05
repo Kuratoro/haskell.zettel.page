@@ -23,3 +23,9 @@ Non-technical:
 ## Contribute a zettel
 
 Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new); but the goal is to eventually facilitate a [collaborative editing model](https://old.reddit.com/r/haskell/comments/fpdsit/on_haskell_and_onboarding/flms0j1/).
+
+## Recently created zettels
+
+Chronological ordering of all zettels added to this Zettelkasten.
+
+[.](zcfquery://search?theme=withDate)
