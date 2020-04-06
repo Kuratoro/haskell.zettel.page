@@ -15,6 +15,7 @@ This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is manage
 * [2012602](z://package-management)
 * [2013402](z://libraries)
 * [2012404](z://frontend)
+* [2014102](z://apps)
 
 Non-technical:
 
