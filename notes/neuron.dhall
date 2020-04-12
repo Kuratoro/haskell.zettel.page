@@ -4,6 +4,8 @@
     None Text
 , siteBaseUrl =
     Some "https://haskell.srid.ca"
+, aliases =
+    [ "boring:2012406" ]
 , theme =
     "violet"
 , editUrl =
