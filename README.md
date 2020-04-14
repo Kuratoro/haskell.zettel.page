@@ -1,6 +1,6 @@
 # haskell-zettelkasten
 
-See https://haskell.srid.ca/ for details.
+See <https://haskell.zettel.page> for details.
 
 ## Running locally
 
