@@ -9,5 +9,5 @@
 , theme =
     "violet"
 , editUrl =
-    Some "https://github.com/srid/haskell-zettelkasten/edit/master/notes/"
+    Some "https://github.com/srid/haskell-zettelkasten/edit/master/"
 }
