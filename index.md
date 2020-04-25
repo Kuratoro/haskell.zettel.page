@@ -21,10 +21,10 @@ Non-technical:
 
 * [2013403](z://social)
 
-## Contribute a zettel
+## Contribute
 
-Bearing in mind that zettels should be [atomic and autonomous](https://neuron.srid.ca/2012101.html), if you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) for a new zettel you can [contribute it here](https://github.com/srid/haskell-zettelkasten/issues/new); but the goal is to eventually facilitate a [collaborative editing model](https://old.reddit.com/r/haskell/comments/fpdsit/on_haskell_and_onboarding/flms0j1/).
+So far it is primarily me, [Srid](https://www.srid.ca/), who has been adding content. If you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some way, I'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new).
 
-All available zettels added to this Zettelkasten in their chronological order is shown below.
+All available zettels added to this Zettelkasten in their chronological order are shown below for reference.
 
 [.](zcfquery://search?linkTheme=withDate)
