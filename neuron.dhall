@@ -10,4 +10,6 @@
     "violet"
 , editUrl =
     Some "https://github.com/srid/haskell-zettelkasten/edit/master/"
+, mathJaxSupport =
+    False
 }
