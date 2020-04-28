@@ -3,13 +3,13 @@
 , author =
     None Text
 , siteBaseUrl =
-    Some "https://haskell.srid.ca"
+    Some "https://haskell.zettel.page"
 , aliases =
     [ "boring:2012406" ]
 , theme =
     "violet"
 , editUrl =
-    Some "https://github.com/srid/haskell-zettelkasten/edit/master/"
+    Some "https://github.com/srid/haskell.zettel.page/edit/master/"
 , mathJaxSupport =
     False
 }
