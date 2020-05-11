@@ -25,6 +25,13 @@ Non-technical:
 
 So far it is primarily me, [Srid](https://www.srid.ca/), who has been adding content. If you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some way, I'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new).
 
+In order to run this Zettelkasten locally,
+
+* [Install neuron](https://neuron.srid.ca/2011501.html)
+* Run `neuron -d . rib -wS`
+* Visit http://localhost:8080
+
+
 All available zettels added to this Zettelkasten in their chronological order are shown below for reference.
 
 [.](zcfquery://search?linkTheme=withDate)
