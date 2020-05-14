@@ -23,7 +23,7 @@ Non-technical:
 
 ## Contribute
 
-So far it is primarily me, [Srid](https://www.srid.ca/), who has been adding content. If you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some way, I'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new).
+So far it is primarily me, [Srid](https://www.srid.ca/), who has been adding content. If you have [ideas](https://github.com/srid/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some way, I'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new). You can also edit any page by clicking on the edit icon in the footer.
 
 In order to run this Zettelkasten locally,
 
