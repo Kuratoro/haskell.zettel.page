@@ -34,4 +34,4 @@ In order to run this Zettelkasten locally,
 
 All available zettels added to this Zettelkasten in their chronological order are shown below for reference.
 
-<z:zettels?timeline>
+<z:zettels?timeline&cf>
