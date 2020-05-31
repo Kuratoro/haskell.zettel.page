@@ -23,7 +23,7 @@ Non-technical:
 
 ## Contribute
 
-You can also edit any page by clicking on the edit icon in the menu. If you have [ideas](https://github.com/Kuratoro/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some significant way, we'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new). 
+You can **edit any page** by clicking on the edit icon in the menu. If you have [ideas](https://github.com/Kuratoro/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some significant way, we'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new). 
 
 In order to run this Zettelkasten locally,
 
