@@ -4,11 +4,11 @@ title: Haskell Zettelkasten
 
 Welcome to the **Haskell Zettelkasten**, which seeks to be a comprehensive community-maintained knowledge-base for Haskell.
 
-This site is a [Zettelkasten](https://neuron.srid.ca/2011401.html) and is managed by [neuron](https://neuron.zettel.page/). Its Github project is at [github.com/Kuratoro/haskell-zettelkasten](https://github.com/Kuratoro/haskell-zettelkasten).
+This site is a [Zettelkasten](https://neuron.zettel.page/2011401.html) and is managed by [neuron](https://neuron.zettel.page/). Its Github project is at [github.com/Kuratoro/haskell-zettelkasten](https://github.com/Kuratoro/haskell-zettelkasten).
 
 ## Overview zettels
 
-**NOTE**: Haskell Zettelkasten was launched in late March, 2020. It probably would **take several months** before it gains an useful proportion of content. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not in the primary cluster. 
+**NOTE**: Haskell Zettelkasten was launched in late March, 2020, thus it is relatively new. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not in the primary cluster. 
 
 * <2012503>
 * <2013602>
@@ -23,11 +23,11 @@ Non-technical:
 
 ## Contribute
 
-So far it is primarily [Srid](https://www.srid.ca/) who has been adding content. If you have [ideas](https://github.com/Kuratoro/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some way, we'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new). You can also edit any page by clicking on the edit icon in the menu.
+You can also edit any page by clicking on the edit icon in the menu. If you have [ideas](https://github.com/Kuratoro/haskell-zettelkasten/projects/1) on how to grow this Zettelkasten or if you wish to contribute in some significant way, we'd welcome [your thoughts here](https://github.com/srid/haskell-zettelkasten/issues/new). 
 
 In order to run this Zettelkasten locally,
 
-* [Install neuron](https://neuron.srid.ca/2011501.html)
+* [Install neuron](https://neuron.zettel.page/2011501.html)
 * Run `neuron -d . rib -wS`
 * Visit http://localhost:8080
 
