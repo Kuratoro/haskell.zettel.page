@@ -4,7 +4,7 @@ title: Haskell Zettelkasten
 
 Welcome to the **Haskell Zettelkasten**, which seeks to be a comprehensive community-maintained knowledge-base for Haskell.
 
-This site is a [Zettelkasten](https://neuron.zettel.page/2011401.html) and is managed by [neuron](https://neuron.zettel.page/). Its Github project is at [github.com/Kuratoro/haskell-zettelkasten](https://github.com/Kuratoro/haskell-zettelkasten).
+This site is a [Zettelkasten](https://neuron.zettel.page/2011401.html) and is managed by [neuron](https://neuron.zettel.page/). Its Github project is at [github.com/Kuratoro/haskell.zettel.page](https://github.com/Kuratoro/haskell.zettel.page).
 
 ## Overview zettels
 
