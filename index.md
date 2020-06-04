@@ -8,7 +8,7 @@ This site is a [Zettelkasten](https://neuron.zettel.page/2011401.html) and is ma
 
 ## Overview zettels
 
-**NOTE**: Haskell Zettelkasten was launched in late March, 2020, thus it is relatively new. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) to access a complete list of available zettels, including those not in the primary cluster. 
+**NOTE**: Haskell Zettelkasten was launched in late March, 2020, thus it is relatively new. The overview portals below do not necessarily represent all zettels; go to the [z-index](/z-index.html) (or peruse the list below) to access all available zettels, including those not in the primary cluster. 
 
 * <2012503>
 * <2013602>
