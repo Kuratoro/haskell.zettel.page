@@ -13,7 +13,7 @@ This site is a [Zettelkasten](https://neuron.zettel.page/2011401.html) and is ma
 
 * <2012503>
 * <2013602>
-* <2012602>
+* <cd6eda70>
 * <2013402>
 * <2012404>
 * <2014102>
