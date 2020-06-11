@@ -1,5 +1,9 @@
 ---
-title: New zettel on 2020-06-11
+title: Developer Tooling
 date: 2020-06-11
 ---
+
+* <2012602>
+* <58bc09d0>
+
 
